@@ -4,7 +4,6 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
 import 'tachyons';
-import { robots } from './robots.js';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
